@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#4F46E5"/>
+  
+  <!-- Top-left puzzle piece -->
+  <path d="M12 20v-8a4 4 0 0 1 4-4h8v4a4 4 0 1 0 8 0v-4h8a4 4 0 0 1 4 4v8h-4a4 4 0 1 0 0 8h4v8a4 4 0 0 1-4 4h-8v-4a4 4 0 1 0-8 0v4h-8a4 4 0 0 1-4-4v-8h4a4 4 0 1 0 0-8h-4z"
+        fill="white" opacity="0.9"/>
+        
+  <!-- Bottom-right puzzle piece -->
+  <path d="M36 36v-8a4 4 0 0 1 4-4h8v4a4 4 0 1 0 8 0v-4h4v8a4 4 0 0 1-4 4h-4a4 4 0 1 0 0 8h4v8a4 4 0 0 1-4 4h-8v-4a4 4 0 1 0-8 0v4h-8a4 4 0 0 1-4-4v-8h4a4 4 0 1 0 0-8h-4v-8a4 4 0 0 1 4-4h8z"
+        fill="white" opacity="0.85"/>
+</svg>
